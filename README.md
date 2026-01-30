@@ -1,9 +1,13 @@
-# inet4031-module-lab2
-codes and files for INET4031 2 for Lab 2
+# Hi, I'm Ridwan 👋
 
-IT Infrastructure student at the University of Minnesota.
+I am an IT Infrastructure student at the University of Minnesota.
 
 ## Interests
-- Systems administration
-- Cloud computing
+- Systems Administration
+- Cloud Computing
 - Cybersecurity
+
+## Currently Learning
+- Linux
+- Git & GitHub
+- Cloud fundamentals
